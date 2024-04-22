@@ -63,6 +63,6 @@ build, debug, trace, evaluate.<br />
 
 ## What is actually Fobos SDR
 
-For more info see the main product page
+For more info visit the main product page
 
 https://rigexpert.com/en/products/kits-en/fobos-sdr/
