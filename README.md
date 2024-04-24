@@ -56,7 +56,7 @@ build, debug, trace, evaluate.<br />
 
 ## How to use Fobos SDR API elsewhere
 
-- copy **fobos.c** and **fobos.h** from  **fobos** subdirectory to your **c/c++** project 
+- copy **fobos.c** and **fobos.h** from  **fobos** subdirectory to your **c/c++** project location
 - link **fobos.c**  and include **fobos.h** to your project
 - see **recorder/main.c** and make your own similar 
 - build, run and have a fun
