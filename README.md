@@ -1,4 +1,4 @@
-# RigExpert Fobos SDR API
+# RigExpert Fobos SDR API example
 
 This is the Fobos SDR receiver host software API library and basic standalone test application. Extremely lightweight and easy to start. Full source code.
 
