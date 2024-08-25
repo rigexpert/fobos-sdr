@@ -61,7 +61,7 @@ void test_rx(int mode)
     int result = 0;
     char lib_version[32];
     char drv_version[32];
-    char serials[256];
+    char serials[256] = {0};
 
     int index = 0;
 
